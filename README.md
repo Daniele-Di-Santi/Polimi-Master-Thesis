@@ -8,7 +8,12 @@ Leveraging the multimodal model CLIP, we compute latent representations of arbit
 
 This approach provides greater control over the knowledge learned by CNNs, offering applications that go beyond explainability.
 
-Moreover, concepts can also be employed for localization tasks: by filtering CNN features to retain only those relevant to a given concept, we can generate heatmaps or bounding boxes highlighting the regions of the image that express that concept.
+Moreover, concepts can also be employed for localization tasks: by filtering CNN features to retain only those relevant to a given concept, we can generate heatmaps or bounding boxes highlighting the regions of the image that express that concept. 
+
+<img width="985" height="509" alt="Schermata 2025-11-05 alle 11 34 51" src="https://github.com/user-attachments/assets/80ebb28a-9d4e-4b75-ab80-74c810da91f2" />
+
+
+
 
 ## Abstract
 
